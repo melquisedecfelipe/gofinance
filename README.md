@@ -44,8 +44,11 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 # Clone this repository
 $ git clone https://github.com/melquisedecfelipe/gofinance
 
-# Go into the repository and install dependencies
-$ cd gofinance && yarn
+# Go into the repository
+$ cd gofinance
+
+# Go into the backend and install dependencies
+$ cd backend && yarn
 
 # Run backend
 $ yarn dev:server
