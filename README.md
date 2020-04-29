@@ -1,21 +1,21 @@
-<h1>GoFinance</h1>
+<h1>gofinancess</h1>
 
 <p>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/gofinance.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/gofinances.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/gofinance.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/gofinances.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/gofinance.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/gofinances.svg">
 
-  <a href="https://github.com/melquisedecfelipe/gofinance/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/gofinance.svg">
+  <a href="https://github.com/melquisedecfelipe/gofinances/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/gofinances.svg">
   </a>
 
-  <a href="https://github.com/melquisedecfelipe/gofinance/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/gofinance.svg">
+  <a href="https://github.com/melquisedecfelipe/gofinances/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/gofinances.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/gofinance.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/gofinances.svg">
 </p>
 
 <p>
@@ -36,16 +36,28 @@ Backend
 - [Prettier](https://prettier.io/)
 - [Typescript](https://www.typescriptlang.org/)
 
+Frontend
+
+- [Axios](https://github.com/axios/axios)
+- [Eslint](https://eslint.org/)
+- [Filesize](https://github.com/avoidwork/filesize.js)
+- [Polished](https://polished.js.org/)
+- [Prettier](https://prettier.io/)
+- [React](https://reactjs.org/)
+- [React dropzone](https://github.com/react-dropzone/react-dropzone)
+- [Styled components](https://styled-components.com/)
+- [Typescript](https://www.typescriptlang.org/)
+
 ## :information_source: How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/) or higher + [Yarn v1.13](https://yarnpkg.com/) or higher installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/melquisedecfelipe/gofinance
+$ git clone https://github.com/melquisedecfelipe/gofinances
 
 # Go into the repository
-$ cd gofinance
+$ cd gofinances
 
 # Go into the backend and install dependencies
 $ cd backend && yarn
@@ -55,11 +67,20 @@ $ yarn dev:server
 
 # Run backend tests
 $ yarn test
+
+# Go into the frontend and install dependencies
+$ cd frontend && yarn
+
+# Run frontend
+$ yarn start
+
+# Run frontend tests
+$ yarn test
 ```
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/gofinance/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/gofinances/blob/master/LICENSE) for more information.
 
 ---
 
