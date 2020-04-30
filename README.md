@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Go Finances" src="https://res.cloudinary.com/dtifsqadc/image/upload/v1588184831/gofinances_zkyvwu.svg" />
+  <img alt="GoFinances" src="https://res.cloudinary.com/dtifsqadc/image/upload/v1588184831/gofinances_zkyvwu.svg" />
 </h1>
 
 <p align="center">
